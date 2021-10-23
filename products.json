@@ -1,0 +1,80 @@
+{
+  "fruits": [
+    {
+      "id": 1,
+      "productName": "Apple",
+      "description": "Red japanese Apples",
+      "price": 25,
+      "stock": 20,
+      "productPhoto": "https://i.ibb.co/gwd8hmH/user-1.png"
+    },
+    {
+      "id": 2,
+      "productName": "Manggo",
+      "description": "Indian Manggoes fresh from Lobo",
+      "price": 35,
+      "stock": 37,
+      "productPhoto": "https://i.ibb.co/RT9R3tF/user-2.png"
+    },
+    {
+      "id": 3,
+      "productName": "Banana",
+      "description": "Fresh banana from brgy 2",
+      "price": 40,
+      "stock": 32,
+      "productPhoto": "https://i.ibb.co/vjBGPLS/user-3.png"
+    }
+  ],
+  "vegetables": [
+    {
+      "id": 1,
+      "productName": "Ampalaya",
+      "description": "Taste the bitterness of single",
+      "price": 25,
+      "stock": 20,
+      "productPhoto": "https://i.ibb.co/gwd8hmH/user-1.png"
+    },
+    {
+      "id": 2,
+      "productName": "Sitaw",
+      "description": "fresh from batangas city",
+      "price": 35,
+      "stock": 37,
+      "productPhoto": "https://i.ibb.co/RT9R3tF/user-2.png"
+    },
+    {
+      "id": 3,
+      "productName": "Bataw",
+      "description": "from bahay kubo",
+      "price": 40,
+      "stock": 32,
+      "productPhoto": "https://i.ibb.co/vjBGPLS/user-3.png"
+    }
+  ],
+  "fish": [
+    {
+      "id": 1,
+      "productName": "Galunggong",
+      "description": "fresh from the sea",
+      "price": 25,
+      "stock": 20,
+      "productPhoto": "https://i.ibb.co/gwd8hmH/user-1.png"
+    },
+    {
+      "id": 2,
+      "productName": "Tilapia",
+      "description": "fresh from the river",
+      "price": 35,
+      "stock": 37,
+      "productPhoto": "https://i.ibb.co/RT9R3tF/user-2.png"
+    },
+    {
+      "id": 3,
+      "productName": "Tuna",
+      "description": "fresh from gensan",
+      "price": 40,
+      "stock": 32,
+      "productPhoto": "https://i.ibb.co/vjBGPLS/user-3.png"
+    }
+  ]
+}
